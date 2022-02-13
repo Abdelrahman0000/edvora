@@ -1,0 +1,13 @@
+html , body{
+    background-color: #292929;
+color: aliceblue;
+}
+.main-bg{
+    background-color: #131313;
+}
+.sec-bg{
+    background-color: #292929;
+}
+.card-first{
+    margin: 10px 20px ;
+}
